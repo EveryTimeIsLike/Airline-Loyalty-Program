@@ -47,7 +47,7 @@ Enrollment Type Breakdown: Stacked columns with slicers for filtering.
 
 You can view an interactive version here:
 👉 View the Power BI Report
- (replace with your Power BI Service public link)
+Airline Loyality Program Project.pbix
 
 📈 Key Insights
 Campaign generated a +37% increase in enrollments during Feb–Apr 2018.
